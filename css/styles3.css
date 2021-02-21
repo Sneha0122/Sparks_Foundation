@@ -1,0 +1,22 @@
+#donation
+{
+  font-size: 2rem;
+  padding-top: 10%;
+  font-weight: bolder;
+  padding-left: 30px; 
+  color: black;
+ }
+
+#form1
+{
+	margin-top: 3%;
+	margin-left: 6%;
+}
+
+#a1,#a2
+{
+	padding: 20px;
+	text-decoration: none;
+	color: black;
+}
+
